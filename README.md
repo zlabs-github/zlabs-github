@@ -1,4 +1,4 @@
-### zLabs GitHub repo
+### zLabs GitHub
 
 <!--
 **zlabs-github/zlabs-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
